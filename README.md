@@ -6,10 +6,6 @@
 [![Licence](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
 [![Statut](https://img.shields.io/badge/Projet-BUT%20Informatique-orange.svg)](#)
 
----
-
-[![Bataille d'Austerlitz](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bataille_d%27Austerlitz._2_decembre_1805_%28Pascal_G%C3%A9rard%29.jpg/800px-Bataille_d%27Austerlitz._2_decembre_1805_%28Pascal_G%C3%A9rard%29.jpg)](https://fr.wikipedia.org/wiki/Bataille_d%27Austerlitz)
-*Cliquez sur l'image ci-dessus pour consulter la fiche de la bataille d'Austerlitz.*
 
 ---
 
