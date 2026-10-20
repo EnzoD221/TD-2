@@ -6,11 +6,11 @@ Ce dépôt contient une étude complète consacrée à Napoléon Bonaparte, retr
 
 Pour consulter l'intégralité du dossier, découvrez les sous-pages spécialisées ci-dessous :
 
-1. [Page 1 : Jeunesse et Ascension Militaire (1769-1799)]
-2. [Page 2 : Le Consulat et la Fondation de l'Empire (1799-1804)]
-3. [Page 3 : Les Grandes Réformes Civiles et Institutionnelles]
-4. [Page 4 : Conquêtes et Apogée Militaire (1805-1812)]
-5. [Page 5 : Déclin, Chute et Postérité (1812-1821)]
+1. [Page 1 : jeunesse et Ascension Militaire (1769-1799)]
+2. [Page 2 : le Consulat et la Fondation de l'Empire (1799-1804)]
+3. [Page 3 : les Grandes Réformes Civiles et Institutionnelles]
+4. [Page 4 : conquêtes et Apogée Militaire (1805-1812)]
+5. [Page 5 : déclin, Chute et Postérité (1812-1821)]
 
 ---
 
