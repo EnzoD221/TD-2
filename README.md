@@ -10,7 +10,7 @@ Pour consulter l'intégralité du dossier, découvrez les sous-pages spécialis�
 2. [Page 2 : le Consulat et la Fondation de l'Empire (1799-1804)]
 3. [Page 3 : les Grandes Réformes Civiles et Institutionnelles]
 4. [Page 4 : conquêtes et Apogée Militaire (1805-1812)]
-5. [Page 5 : déclin, Chute et Postérité (1812-1821)]
+5. [Page 5 : déclin, chute et postérité (1812-1821)]
 
 ---
 
