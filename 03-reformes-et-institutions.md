@@ -3,27 +3,27 @@
 
 Promulgué le 21 mars 1804 (30 ventôse an XII); le Code Civil constitue le chef-d'oeuvre juridique de la période Napoléonienne.
 
-### Grands Principes Juridiques
+### Grands principes juridiques
 * **Laïcité de l'état civil** et confirmation de l'abolition des privilèges féodaux.
 * **Garantie du droit de propriété privée**.
 * **Autorité renforcée du père de famille** dans la sphère privée.
 
 ---
 
-## 2. Réorganisation Financière et Monétaire
+## 2. Réorganisation financière et monétaire
 
 Pour optimiser les finances publiques dévastées par la période révolutionnaire, Napoléon crée des structures durables.
 
-* Réformes Financières (1800-1803)
+* Réformes financières (1800-1803)
 ```text
 Banque de France (1800) : gestion du crédit et émission monétaire
-Franc Germinal (1803) : monnaie stable basée sur l'or et l'argent
-Cour des Comptes (1807) : contrôle de la régularité des comptes publics
+Franc germinal (1803) : monnaie stable basée sur l'or et l'argent
+Cour des comptes (1807) : contrôle de la régularité des comptes publics
 ```
 
 ---
 
-## 3. La Réorganisation Administrative et Territoriale
+## 3. La Réorganisation administrative et territoriale
 
 Napoléon Bonaparte renforce l’autorité de l’État en réorganisant l’administration française afin d’assurer une meilleure gestion du territoire et une application uniforme des décisions gouvernementales.
 
