@@ -48,3 +48,8 @@ Napoléon considère l’éducation comme un moyen essentiel de former des citoy
 * **L’Université impériale (1808) :** elle organise et contrôle l’enseignement à l’échelle nationale afin d’unifier les programmes et de renforcer l’autorité de l’État.
 
 Ces réformes contribuent à moderniser l’éducation française et à former une élite capable de servir l’État. Certaines de ces institutions, comme les lycées et la Légion d’honneur, existent encore aujourd’hui.
+
+
+---
+
+[← Retour au menu principal](README.md)
