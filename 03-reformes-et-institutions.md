@@ -17,8 +17,8 @@ Promulgué le 21 mars 1804 (30 ventôse an XII); le Code Civil constitue le chef
 Pour assainir les finances publiques dévastées par la période révolutionnaire, Napoléon crée des structures durables.
 
 ```text
-Réformes Financières (1800-1803)
+# Réformes Financières (1800-1803)
+
 Banque de France (1800) : gestion du crédit et émission monétaire
 Franc Germinal (1803) : monnaie stable basée sur l'or et l'argent
 Cour des Comptes (1807) : contrôle de la régularité des comptes publics
-
