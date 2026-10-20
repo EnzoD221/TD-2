@@ -54,3 +54,8 @@ Pendant ses dix mois d'exil elbois, Napoléon déploie une activité administrat
 | --- | --- | --- | --- |
 | **Empire Français** | ~70 000 hommes | Napoléon Ier, Maréchal Ney, Maréchal Victor | Manœuvre sur lignes intérieures et attaques de surprise |
 | **Sixième Coalition** | ~350 000 hommes | Blücher (Prusse), Schwarzenberg (Autriche) | Convergence de plusieurs armées vers la capitale |
+
+
+---
+
+[← Retour au menu principal](README.md)
