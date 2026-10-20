@@ -18,4 +18,7 @@ Pour assainir les finances publiques dévastées par la période révolutionnair
 
 ```text
 Réformes Financières (1800-1803)
+Banque de France (1800) : gestion du crédit et émission monétaire
+Franc Germinal (1803) : monnaie stable basée sur l'or et l'argent
+Cour des Comptes (1807) : contrôle de la régularité des comptes publics
 
