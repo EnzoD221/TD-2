@@ -11,7 +11,11 @@ Pour consulter l'intégralité du dossier, découvrez les sous-pages spécialis�
 5. [Page 5 : la Campagne de France et l'Ile d'Elbe  ](05-la-campagne-de-france-et-lile-delbe.md)
 
 ---
+![](https://github.com/user-attachments/assets/370f4cdc-61a2-4bd9-b0a5-7e41ae640a0d)
+> Bonaparte franchissant le Grand-Saint-Bernard - Jacques-Louis David
 
+
+---
 ## Synthèse générale
 
 Napoléon Bonaparte demeure l'une des figures les plus marquantes de l'histoire universelle. Général de la Révolution française, il s'empare du pouvoir lors du coup d'État du 18 Brumaire avant de se faire couronner Empereur des Français sous le nom de Napoléon Ier.
