@@ -31,6 +31,10 @@ Fort de ses succès politiques et économiques, Bonaparte consolide son pouvoir 
 ---
 
 ## 4. La cérémonie du sacre (2 décembre 1804)
+---
+![Légende de l'image](https://github.com/user-attachments/assets/b5f2d8d0-c98a-4e34-b8bf-7d8ae7a91616)
+> Le Sacre de Napoléon par Jacques-Louis David
+---
 
 Le 2 décembre 1804, Napoléon Ier est sacré Empereur des Français dans la cathédrale Notre-Dame de Paris en présence du Pape Pie VII.
 
