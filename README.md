@@ -43,6 +43,8 @@ Napoléon Bonaparte demeure l'une des figures les plus marquantes de l'histoire 
 > "Un bon croquis vaut mieux qu'un long discours."
 > — Napoléon Bonaparte
 
+> ~~Je suis venu, j'ai vu, j'ai vaincu.~~
+> — ~~Napoléon Bonaparte~~
 ---
 
 ## Sources et Bibliographie
