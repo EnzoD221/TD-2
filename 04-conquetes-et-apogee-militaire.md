@@ -20,6 +20,10 @@ Après avoir renoncé au débarquement en Angleterre à la suite de la défaite 
 * **Friedland (1807)** : victoire décisive sur l'armée russe menant au **Traité de Tilsit**, où Napoléon et l'empereur Alexandre Ier partagent leurs zones d'influence en Europe.
 
 ---
+![Légende de l'image](https://github.com/user-attachments/assets/3af995bf-c934-4a2c-ad96-398bea1c7ac9)
+> Napoléon sur le champ de bataille d'Eylau - Antoine-Jean Gros
+
+---
 
 ## 3. Le Grand Empire à son apogée (1811)
 
