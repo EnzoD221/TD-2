@@ -19,7 +19,24 @@ Pour optimiser les finances publiques dévastées par la période révolutionnai
 Banque de France (1800) : gestion du crédit et émission monétaire
 Franc Germinal (1803) : monnaie stable basée sur l'or et l'argent
 Cour des Comptes (1807) : contrôle de la régularité des comptes publics
+```
 
 ---
 
 ## 3. La Réorganisation Administrative et Territoriale
+
+Napoléon Bonaparte renforce l’autorité de l’État en réorganisant l’administration française afin d’assurer une meilleure gestion du territoire et une application uniforme des décisions gouvernementales.
+
+### Les principales réformes administratives (1800)
+
+* **Les préfets :** créés par la loi du 28 pluviôse an VIII (17 février 1800), ils représentent l’État dans chaque département et veillent à l’application des lois.
+* **Les maires :** ils assurent la gestion des communes sous l’autorité de l’État.
+* **La centralisation administrative :** les décisions sont davantage contrôlées par le gouvernement, ce qui renforce l’autorité de Napoléon sur l’ensemble du territoire.
+
+Cette réorganisation permet de stabiliser l’administration française et constitue encore aujourd’hui l’une des bases de l’organisation territoriale de la France.
+
+---
+
+## 4. La Réforme de l’Éducation et la Création des Grandes Institutions
+
+Napoléon considère l’éducation comme un moyen essentiel de former des citoyens instruits et de préparer les futurs cadres de l’État. Il souhaite mettre en place un système scolaire organisé et contrôlé par le pouvoir central.
