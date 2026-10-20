@@ -13,10 +13,10 @@ Malgré un déséquilibre numérique massif de un contre quatre, Napoléon mène
 
 En exploitant l'écartement entre les différentes colonnes ennemies — notamment l'Armée de Silésie commandée par le maréchal prussien Blücher et l'Armée de Bohême commandée par le prince de Schwarzenberg —, l'Empereur manœuvre sur les lignes intérieures et remporte une série de victoires fulgurantes entre le 10 et le 14 février 1814 :
 
-1. **Bataille de Champaubert (10 février)** : Destruction quasi totale du corps d'armée russe du général Olsouviev.
-2. **Bataille de Montmirail (11 février)** : Victoire tactique éclatante sur les troupes prussiennes et russes combinées.
-3. **Bataille de Château-Thierry (12 février)** : Maintien de la pression sur les forces ennemies en retraite.
-4. **Bataille de Vauchamps (14 février)** : Écrasement de l'avant-garde prussienne de Blücher, contraint de se replier.
+1. **Bataille de Champaubert (10 février)** : destruction quasi totale du corps d'armée russe du général Olsouviev.
+2. **Bataille de Montmirail (11 février)** : victoire tactique éclatante sur les troupes prussiennes et russes combinées.
+3. **Bataille de Château-Thierry (12 février)** : maintien de la pression sur les forces ennemies en retraite.
+4. **Bataille de Vauchamps (14 février)** : écrasement de l'avant-garde prussienne de Blücher, contraint de se replier.
 
 ---
 
@@ -41,16 +41,16 @@ En vertu du Traité de Fontainebleau signé avec les Coalisés, Napoléon conser
 ### Un Micro-État en Transformation
 Pendant ses dix mois d'exil elbois, Napoléon déploie une activité administrative et réformatrice intense sur ce territoire de 224 km² :
 
-* **Réformes Économiques** : Modernisation de l'exploitation des mines de fer de Rio Marina, relance de la production agricole et réorganisation des concessions fiscales.
-* **Infrastructures et Voirie** : Tracé et construction d'un réseau routier reliant la capitale Portoferraio aux différentes communes et ports de l'île.
-* **Santé Publique** : Création d'un service de salubrité urbaine, gestion de la collecte des déchets et réorganisation de l'hôpital militaire.
-* **Défense et Administration** : Organisation d'une armée miniature de 1 000 hommes (la Garde elboise) et structuration d'une administration civile efficace.
+* **Réformes économiques** : modernisation de l'exploitation des mines de fer de Rio Marina, relance de la production agricole et réorganisation des concessions fiscales.
+* **Infrastructures et voirie** : tracé et construction d'un réseau routier reliant la capitale Portoferraio aux différentes communes et ports de l'île.
+* **Santé publique** : création d'un service de salubrité urbaine, gestion de la collecte des déchets et réorganisation de l'hôpital militaire.
+* **Défense et a  administration** : organisation d'une armée miniature de 1 000 hommes (la Garde elboise) et structuration d'une administration civile efficace.
 
 ---
 
-## 5. Bilan Synthétique des Combats de la Campagne de 1814
+## 5. Bilan synthétique des combats de la campagne de 1814
 
-| Belligérant | Effectifs Engagés | Commandants Principaux | Stratégie Globale |
+| Belligérant | Effectifs engagés | Commandants principaux | Stratégie globale |
 | --- | --- | --- | --- |
 | **Empire Français** | ~70 000 hommes | Napoléon Ier, Maréchal Ney, Maréchal Victor | Manœuvre sur lignes intérieures et attaques de surprise |
 | **Sixième Coalition** | ~350 000 hommes | Blücher (Prusse), Schwarzenberg (Autriche) | Convergence de plusieurs armées vers la capitale |
