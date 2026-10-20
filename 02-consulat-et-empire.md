@@ -39,3 +39,8 @@ Le 2 décembre 1804, Napoléon Ier est sacré Empereur des Français dans la cat
 * Onction sainte accordée par le souverain Pontife.
 * Auto-couronnement de Napoléon qui pose la couronne impériale sur sa propre tête avant de couronner l'impératrice Joséphine de Beauharnais.
 * Prestation du serment constitutionnel garantissant les conquêtes de la Révolution (égalité des droits, liberté civile, vente des biens nationaux).
+
+
+---
+
+[← Retour au menu principal](README.md)
