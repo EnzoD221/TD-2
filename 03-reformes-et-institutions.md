@@ -40,3 +40,11 @@ Cette réorganisation permet de stabiliser l’administration française et cons
 ## 4. La Réforme de l’Éducation et la Création des Grandes Institutions
 
 Napoléon considère l’éducation comme un moyen essentiel de former des citoyens instruits et de préparer les futurs cadres de l’État. Il souhaite mettre en place un système scolaire organisé et contrôlé par le pouvoir central.
+
+### Les principales réformes éducatives (1802-1808)
+
+* **Les lycées (1802) :** créés pour former les futurs fonctionnaires, militaires et responsables de l’administration.
+* **La Légion d’honneur (1802) :** instituée pour récompenser les mérites civils et militaires, indépendamment de l’ancienne noblesse.
+* **L’Université impériale (1808) :** elle organise et contrôle l’enseignement à l’échelle nationale afin d’unifier les programmes et de renforcer l’autorité de l’État.
+
+Ces réformes contribuent à moderniser l’éducation française et à former une élite capable de servir l’État. Certaines de ces institutions, comme les lycées et la Légion d’honneur, existent encore aujourd’hui.
