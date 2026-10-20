@@ -1,7 +1,5 @@
 # Napoléon Bonaparte (1769-1821) : Analyse Historique et Institutionnelle
 
-Ce dépôt contient une étude complète consacrée à Napoléon Bonaparte, retraçant sa trajectoire personnelle, ses campagnes militaires, son œuvre institutionnelle ainsi que son héritage politique durable.
-
 ## Sommaire de l'étude (Navigation du Dépôt)
 
 Pour consulter l'intégralité du dossier, découvrez les sous-pages spécialisées ci-dessous :
@@ -14,7 +12,7 @@ Pour consulter l'intégralité du dossier, découvrez les sous-pages spécialis�
 
 ---
 
-## Synthèse Générale
+## Synthèse générale
 
 Napoléon Bonaparte demeure l'une des figures les plus marquantes de l'histoire universelle. Général de la Révolution française, il s'empare du pouvoir lors du coup d'État du 18 Brumaire avant de se faire couronner Empereur des Français sous le nom de Napoléon Ier.
 
@@ -33,7 +31,7 @@ Napoléon Bonaparte demeure l'une des figures les plus marquantes de l'histoire 
 
 ---
 
-## Citations Emblématiques
+## Citations emblématiques
 
 > "Impossible n'est pas français."
 > — Napoléon Bonaparte
