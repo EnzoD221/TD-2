@@ -7,7 +7,7 @@ Pour consulter l'intégralité du dossier, découvrez les sous-pages spécialis�
 1. [Page 1 : jeunesse et ascension militaire (1769-1799)](01-jeunesse-et-ascension.md)
 2. [Page 2 : le Consulat et la fondation de l'Empire (1799-1804)](02-consulat-et-empire.md)
 3. [Page 3 : les Grandes Réformes Civiles et Institutionnelles](03-reformes-et-institutions.md)
-4. [Page 4 : conquêtes et apogée militaire (1805-1812)]
+4. [Page 4 : conquêtes et apogée militaire (1805-1812)](04-conquetes-et-apogee-militaire.md)
 5. [Page 5 : déclin, chute et postérité (1812-1821)]
 
 ---
