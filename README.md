@@ -8,7 +8,7 @@ Pour consulter l'intégralité du dossier, découvrez les sous-pages spécialis�
 2. [Page 2 : le Consulat et la fondation de l'Empire (1799-1804)](02-consulat-et-empire.md)
 3. [Page 3 : les Grandes Réformes Civiles et Institutionnelles](03-reformes-et-institutions.md)
 4. [Page 4 : conquêtes et apogée militaire (1805-1812)](04-conquetes-et-apogee-militaire.md)
-5. [Page 5 : déclin, chute et postérité (1812-1821)]
+5. [Page 5 : la Campagne de France et l'Ile d'Elbe  ](05-la-campagne-de-france-et-lile-delbe.md)
 
 ---
 
@@ -16,9 +16,9 @@ Pour consulter l'intégralité du dossier, découvrez les sous-pages spécialis�
 
 Napoléon Bonaparte demeure l'une des figures les plus marquantes de l'histoire universelle. Général de la Révolution française, il s'empare du pouvoir lors du coup d'État du 18 Brumaire avant de se faire couronner Empereur des Français sous le nom de Napoléon Ier.
 
-### Repères Chronologiques Majeurs
+### Repères chronologiques majeurs
 
-| Année | Événement Historique | Portée Stratégique |
+| Année | Événement historique | Portée stratégique |
 | --- | --- | --- |
 | 1769 | Naissance à Ajaccio (Corse) | Rattachement récent de la Corse à la France |
 | 1793 | Siège de Toulon | Promotion au grade de général de brigade |
