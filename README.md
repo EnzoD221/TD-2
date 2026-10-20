@@ -3,7 +3,6 @@
 > **Une étude complète et structurée sur l'épopée napoléonienne, ses grandes batailles et son héritage géopolitique.**
 
 [![Thème](https://img.shields.io/badge/Th%C3%A8me-Histoire%20de%20France-blue.svg)](https://fr.wikipedia.org/wiki/Guerres_napol%C3%A9onniennes)
-[![Licence](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
 [![Statut](https://img.shields.io/badge/Projet-BUT%20Informatique-orange.svg)](#)
 
 
@@ -41,9 +40,8 @@ Notre Wiki est structuré en plusieurs pages interconnectées :
 ##  Équipe de Réalisation :
 
 Projet réalisé en groupe de 3 étudiants :
-- **Membre 1** : Gestion du dépôt Git & Rédaction Markdown
-- **Membre 2** : Structure MediaWiki & Rédaction historique
-- **Membre 3** : Sous-pages thématiques & Recherche de sources
+- **Enzo** : Gestion du dépôt Git & Rédaction Markdown
+- **Grégory** : Structure MediaWiki & Rédaction historique
 
 ---
 
