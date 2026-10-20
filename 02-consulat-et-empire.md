@@ -15,9 +15,9 @@ Le nouveau régime prend le nom de **Consulat**. Le pouvoir exécutif est confi�
 Bonaparte s'attache immédiatement à stabiliser le pays après une décennie de soubresauts révolutionnaires.
 
 ### La paix militaire et religieuse
-* **Marengo (14 juin 1800)** : Victoire décisive sur l'Autriche ramenant la paix sur le continent (Traité de Lunéville en 1801).
-* **Le Concordat de 1801** : Signature d'un accord majeur avec le Pape Pie VII, réconciliant la République française avec le catholicisme tout en conservant la liberté de culte.
-* **La Paix d'Amiens (1802)** : Signature de la paix avec la Grande-Bretagne, offrant une trêve générale à l'Europe.
+* **Marengo (14 juin 1800)** : victoire décisive sur l'Autriche ramenant la paix sur le continent (Traité de Lunéville en 1801).
+* **Le Concordat de 1801** : signature d'un accord majeur avec le Pape Pie VII, réconciliant la République française avec le catholicisme tout en conservant la liberté de culte.
+* **La Paix d'Amiens (1802)** : signature de la paix avec la Grande-Bretagne, offrant une trêve générale à l'Europe.
 
 ---
 
@@ -25,8 +25,8 @@ Bonaparte s'attache immédiatement à stabiliser le pays après une décennie de
 
 Fort de ses succès politiques et économiques, Bonaparte consolide son pouvoir personnel.
 
-1. **1802** : Par plébiscite, Napoléon est nommé **Premier Consul à vie**.
-2. **1804** : Face aux conspirations royalistes (comme l'affaire Cadoudal), le Sénat proclame la transformation du Consulat en Empire Héréditaire afin de pérenniser le régime.
+1. **1802** : par plébiscite, Napoléon est nommé **Premier Consul à vie**.
+2. **1804** : face aux conspirations royalistes (comme l'affaire Cadoudal), le Sénat proclame la transformation du Consulat en Empire Héréditaire afin de pérenniser le régime.
 
 ---
 
