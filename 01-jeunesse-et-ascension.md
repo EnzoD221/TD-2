@@ -46,3 +46,8 @@ Pour couper la route des Indes à la Grande-Bretagne, le Directoire accepte d'en
 * **Volet Scientifique** : L'expédition embarque plus de 160 savants, ingénieurs et artistes, menant à la découverte de la **Pierre de Rosette** et à la naissance de l'égyptologie moderne.
 
 Informé de l'instabilité politique en France, Bonaparte abandonne son commandement en Égypte et rentre secrètement à Paris en octobre 1799.
+
+
+---
+
+[← Retour au menu principal](README.md)
